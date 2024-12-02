@@ -10,7 +10,7 @@ async function change() {
     blur.classList.add("blurpagerplc2")
 }
 button.addEventListener("click", ( () => {
-    audio.paused ? (audio.volume = .20,
+    audio.paused ? (audio.volume = .15,
     audio.play(),
     icon.classList.remove("fa-volume-up"),
     icon.classList.add("fa-volume-mute")) : (audio.pause(),
