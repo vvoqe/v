@@ -1,7 +1,7 @@
 function sleep(e) {
     return new Promise((s => setTimeout(s, e)))
 }
-const phrases = ["Spain | 17", "Slut Truck", "ikwydls"]
+const phrases = ["Spain | 17", "Slut Truck", "@Voqe"]
   , el = document.getElementById("bio");
 let sleepTime = 150
   , curPhraseIndex = 0;
