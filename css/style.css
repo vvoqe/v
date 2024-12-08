@@ -15,7 +15,7 @@
     padding: 0;
 }
 html{
-    background-attachment:fixed;
+    background-attachment:"media/uruma bg.png";
     height: 100%;
 }
 body{
