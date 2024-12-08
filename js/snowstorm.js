@@ -8,8 +8,6 @@
  * http://schillmania.com/projects/snowstorm/license.txt
  */
 
-// SHUT YO BITCH ASS UP NIGGA @voqe@voqe@voqe@voqe@voqe@voqe
-
 /*jslint nomen: true, plusplus: true, sloppy: true, vars: true, white: true */
 /*global window, document, navigator, clearInterval, setInterval */
 
@@ -27,7 +25,7 @@ var snowStorm = (function(window, document) {
     this.excludeMobile = true;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) By default, be nice.
     this.flakeBottom = null;        // Integer for Y axis snow limit, 0 or null for "full-screen" snow effect
     this.followMouse = true;        // Snow movement can respond to the user's mouse
-    this.snowColor = '#8b1515';        // Don't eat (or use?) yellow snow.
+    this.snowColor = '#ffffff';        // Don't eat (or use?) yellow snow.
     this.snowCharacter = '&bull;';  // &bull; = bullet, &middot; is square on some systems etc.
     this.snowStick = true;          // Whether or not snow should "stick" at the bottom. When off, will never collect.
     this.targetElement = null;      // element which snow will be appended to (null = document.body) - can be an element ID eg. 'myDiv', or a DOM node reference
