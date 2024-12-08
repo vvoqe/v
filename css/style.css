@@ -20,7 +20,7 @@ html{
 }
 body{
     font-family: "Poppins", sans-serif;
-    color: #8b1515;
+    color: #ffffff;
     background-color: #0d0d0e;
     background-repeat: no-repeat;
     background-size: cover;
@@ -78,7 +78,7 @@ i{
 
     border-radius: 100%;
     object-fit: cover;
-    border: 0px solid #8b1515;
+    border: 0px solid #ffffff;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -102,10 +102,10 @@ i{
 }
 
 .ripple {
-    background: linear-gradient(90deg, #8b1515 30%, #8b1515 50%, #8b1515 70%);
+    background: linear-gradient(90deg, #ffffff 30%, #ffffff 50%, #ffffff 70%);
     background-size: 200%;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: #8b1515;
+    -webkit-text-fill-color: #ffffff;
     animation: breathing 3s linear infinite;
 }
 
@@ -156,7 +156,7 @@ i{
     display: block;
     text-decoration: none;
     color: #000000;
-    background: #8b1515;
+    background: #ffffff;
     margin-bottom: 30px;
     padding: 12px;
     border-radius: 10px;
@@ -168,7 +168,7 @@ i{
   .links a:hover {
     background: #8a8989;
     color: #000000;
-    box-shadow: 0 0 10px #8b1515;
+    box-shadow: 0 0 10px #ffffff;
   }
 .tooltip {
     position: relative;
@@ -179,7 +179,7 @@ i{
     visibility: hidden;
     width: 120px;
     background-color: black;
-    color: #8b1515;
+    color: #ffffff;
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
@@ -232,7 +232,7 @@ i{
     align-items: center;
     justify-content: center;
     padding: 9px 1px;
-    border: 1px solid #8b1515;
+    border: 1px solid #ffffff;
     width: 50%;
     margin: auto;
     border-radius: 20rem;
@@ -242,7 +242,7 @@ i{
 .disc{
     font-size: 16px;
     margin-right: 5px;
-    color: #8b1515;
+    color: #ffffff;
     text-shadow: #000000 0px 0px 9px;
 }
 .btn-link {
@@ -257,7 +257,7 @@ i{
 	-moz-box-shadow: 0 0 17px 1px rgba(0, 0, 0, .57);
 	box-shadow: 0 0 17px 1px rgba(0, 0, 0, .57);
 	cursor: pointer;
-	color: #8b1515;
+	color: #ffffff;
 	transition: transform .25s ease, color .25s ease, background-color .25s ease, border-color .25s ease;
 	margin-bottom: 22px;
 	font-weight: 400;
@@ -265,9 +265,9 @@ i{
 }
 
 .btn-link:hover {
-	-webkit-box-shadow: 0 0 20px 1px #8b1515;
-	-moz-box-shadow: 0 0 20px 1px #8b1515;
-	box-shadow: 0 0 20px 1px #8b1515;
+	-webkit-box-shadow: 0 0 20px 1px #ffffff;
+	-moz-box-shadow: 0 0 20px 1px #ffffff;
+	box-shadow: 0 0 20px 1px #ffffff;
 	transform: scale(.95)
 }
 
@@ -356,7 +356,7 @@ to {opacity:0.8 ;}
 
 .musicbtn{
     font-size:16px;
-    color:#8b1515;
+    color:#ffffff;
     position:absolute;
     top:50%;
     left:50%;
@@ -415,8 +415,8 @@ audio{
   --tw-numeric-fraction: ;
   --tw-ring-inset: ;
   --tw-ring-offset-width:0px;
-  --tw-ring-offset-color:#8b1515;
-  --tw-ring-color:#8b1515;
+  --tw-ring-offset-color:#ffffff;
+  --tw-ring-color:#ffffff;
   --tw-ring-offset-shadow:0 0 #0000;
   --tw-ring-shadow:0 0 #0000;
   --tw-shadow:0 0 #0000;
@@ -464,8 +464,8 @@ audio{
   --tw-numeric-fraction: ;
   --tw-ring-inset: ;
   --tw-ring-offset-width:0px;
-  --tw-ring-offset-color:#8b1515;
-  --tw-ring-color:#8b1515;
+  --tw-ring-offset-color:#ffffff;
+  --tw-ring-color:#ffffff;
   --tw-ring-offset-shadow:0 0 #0000;
   --tw-ring-shadow:0 0 #0000;
   --tw-shadow:0 0 #0000;
@@ -494,6 +494,6 @@ audio{
     top: 10px;
     left: 10px;
     font-size: 0.8rem;
-    color: #8b1515;
+    color: #ffffff;
     opacity: 0.8;
 }
