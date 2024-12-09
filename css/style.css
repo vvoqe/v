@@ -119,35 +119,6 @@ body {
       margin-bottom: 25px;
     }
 
-.links {
-    display: flex;
-    flex-direction: column; /* Ensures the links stack vertically */
-    align-items: center;    /* Centers the links horizontally */
-    justify-content: center; /* Centers the links vertically */
-  }
-
-.links a {
-    display: block;
-    text-decoration: none;
-    color: #000000;
-    background: #fff;
-    margin-bottom: 30px;
-    padding: 12px;
-    border-radius: 10px;
-    transition: all 0.3s ease-in-out;
-    font-weight: bold;
-    width: 70%;
-  }
-
-  .links a:hover {
-    background: #87b4a9;
-    color: #000000;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
-    .tooltip {
-      position: relative;
-      display: inline-block;
-    }
-    
     .tooltip .tooltiptext {
       visibility: hidden;
       width: 120px;
