@@ -11,8 +11,6 @@
 @import url('https://fonts.cdnfonts.com/css/frostbites');
 @import url('https://fonts.cdnfonts.com/css/maria-2');
 
-*{
-  cursor: url('media/cross.cur') 16 16, default;
 }
 body {
       margin: 0;
